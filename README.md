@@ -109,4 +109,6 @@
 <br />
 
 ----
+<div align="center">This's a very good tool, give this guy a medal!</div>
+<br />
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
