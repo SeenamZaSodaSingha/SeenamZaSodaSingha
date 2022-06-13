@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://www.canva.com/design/DAFDeAL60LI/VhVKUpzkjeoAhYsM5IDp2A/edit?utm_content=DAFDeAL60LI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" align="left" style="width: 100%" />  
   
 
 ### <div align="center">My code is 21 September, aka.SeenamZaSodasingha.<br>The 3-year computer science student, KMITL</div>  
