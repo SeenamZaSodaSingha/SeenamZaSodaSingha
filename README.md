@@ -23,7 +23,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div class = "skillSetBG">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -43,7 +42,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div class = "skillSetBG"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -58,7 +56,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
