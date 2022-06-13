@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFDeAL60LI/suBL08gmz4xzu0JgnTYuRw/view" align="left" style="width: 100%" />  
+<img src="https://github.com/SeenamZaSodaSingha/SeenamZaSodaSingha/blob/main/My%20git%20banner.png" align="center" style="width: 100%" />  
   
 
 ### <div align="center">My code is 21 September, aka.SeenamZaSodasingha.<br>The 3-year computer science student, KMITL</div>  
