@@ -1,7 +1,7 @@
 <img src="https://github.com/SeenamZaSodaSingha/SeenamZaSodaSingha/blob/main/My%20git%20banner.png" align="center" style="width: 100%" />  
   
 
-### <div align="center">My code is 21 September, aka.SeenamZaSodasingha.<br>The 3-year computer science student, KMITL</div>  
+### <div align="center">My code is 21 September, aka.SeenamZaSodasingha.<br>The 3-year Computer Science student, KMITL</div>  
   
 
 - ⚡ Fun fact: There are many planes in the sea more than submarines in the sky!  
@@ -9,21 +9,12 @@
 
 <br/>  
 
-<style>
-    skillSetBG {
-        background-color: #f5f5f5;
-        border-radius: 5px;
-        padding: 10px;
-        margin: 10px;
-        align-items: center;
-    }
-</style>
 
-## My Skill Set  
+## My Skill Set 🤿
 <table><tr><td valign="top" width="33%">
 
 
-### Frontend  
+## Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -42,7 +33,7 @@
 </td><td valign="top" width="33%">
 
 
-### Backend  
+## Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
@@ -55,11 +46,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
 
 
-### DevOps  
-<div align="center">  
+## DevOps  
+<div align="center"  background-color: #f5f5f5;>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
@@ -69,7 +60,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me 🗺️
 <div align="center">
 <a href="https://github.com/SeenamZaSodaSingha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,13 +80,13 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats 📈 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SeenamZaSodaSingha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## 21 September's radio 📻
   
 
 <br/>  
