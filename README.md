@@ -61,7 +61,11 @@
 
 
 ## Connect with me 🗺️
+- Personal Email: <a href="mailto:Thammanit.ch@gmail.com">Thammanit.ch@gmail.com</a><br>
+- Work Email: <a href="mailto:Thammanit.cabincrew@gmail.com">Thammanit.cabincrew@gmail.com</a><br>
+
 <div align="center">
+<br/>
 <a href="https://github.com/SeenamZaSodaSingha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
