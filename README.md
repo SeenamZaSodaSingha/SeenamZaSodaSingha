@@ -1,7 +1,7 @@
 <img src="https://github.com/SeenamZaSodaSingha/SeenamZaSodaSingha/blob/main/My%20git%20banner.png" align="center" style="width: 100%" />  
   
 
-### <div align="center">My code is 21 September, aka.SeenamZaSodasingha.<br>The 3-year Computer Science student, KMITL</div>  
+### <div align="center">My code is 21 September, aka.SeenamZaSodasingha.<br>The 4-year Computer Science student, KMITL</div>  
   
 
 - ⚡ Fun fact: There are many planes in the sea more than submarines in the sky!  
