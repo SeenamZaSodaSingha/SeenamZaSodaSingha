@@ -1,7 +1,7 @@
 <img src="./banner.png" align="center" style="width: 100%" />  
   
 
-### <div style="display: flex; align-items: center; justify-content: center;"><img src="./star.png" style="width: 30px; height: auto;" alt="Star"><span style="margin: 0 10px; font-size: 25px;">Just leave some blank space to put a cool quote in</span><img src="./star.png" style="width: 30px; height: auto;" alt="Star"></div>
+### <div align=center><img src="./star.png" style="width: 30px; height: auto;" alt="Star"><span style="margin: 0 10px; font-size: 25px;">   Just leave some blank space to put a cool quote in   </span><img src="./star.png" style="width: 30px; height: auto;" alt="Star"></div>
 
 - ⚡ Fun fact: There are many planes in the sea more than submarines in the sky!  
 
